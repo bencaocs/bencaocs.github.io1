@@ -1,5 +1,5 @@
 ### * Corresponding author, # Co-first author, †Supervised Student: [[Full list]](https://scholar.google.com.hk/citations?user=P8crT5AAAAAJ&hl=zh-CN)
-1. Li X, Zheng Y, Shao Q, Wang J, Li W, Wang B, Zhou S, **Cao B***, Pan Z. Highly Biased DNA Sequence Reconstruction in DNA Storage with Multi-scale Attention Mechanism and Contrast Learning. _Synthetic and Systems Biotechnology_, 2026.
+1. Li X, Zheng Y, Shao Q, Wang J, Li W, Wang B, Zhou S, **Cao B***, Pan Z. Highly Biased DNA Sequence Reconstruction in DNA Storage with Multi-scale Attention Mechanism and Contrast Learning. _Synthetic and Systems Biotechnology_, 2026.(JCR Q1 Top, IF = 4.4)
 1. **Cao B**, Xie L, Liu Z, et al. DNA Sequence Trace Reconstruction Using Deep Learning[J]. bioRxiv, 2025: 2025.08. 05.668822.
 1. Wang, J†, Wang, B, Zhou, S, **Cao B***, Li, W, & Zheng, P. DNACSE: Enhancing Genomic LLMs with Contrastive Learning for DNA Barcode Identification. _Journal of Chemical Information and Modeling_, 2026. (JCR Q1 Top, IF = 5.3)
 1. Sun L#,†, **Cao B#**, et al. Designing DNA Triplexes with High Affinity and Specific Recognition based on Multiple Biophysical Mechanisms, _Journal of Chemical Theory and Computation_, 2025. (JCR Q1 Top, IF = 5.5) [[paper]](https://pubs.acs.org/doi/pdf/10.1021/acs.jctc.5c01298)
