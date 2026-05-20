@@ -1,4 +1,6 @@
 1. ESI highly cited papers (Two) and ESI hot paper, Clarivate.
+1. Gold Award of the Geneva Prize of Invention, Wang bin, Li Xue, Jiang Wei, **Cao Ben**, Zheng Yanfen, Sun Lijun, Hu Yinan, Chen Rongrong.
+1. Second Prize of Natural Science of Dalian City, Research on DNA Molecular Coding and Computational Model Inspired by Biology, Wang Bin, Zhou Shihua, Zhang Xiaokang, Lyu Hui,**Cao Ben**, Zheng Yanfen, Sun Lijun, Dalian University
 1. Invited as ~20 SCI journals reviewer, including IEEE Transactions on Neural Networks and Learning, IEEE Transactions on Big Data, IEEE Transactions on Nanobioscience, IEEE Transactions on Molecular Biological and Multi-Scale Communications, Advance Science, Computational and Structural Biotechnology Journal, Future Generation Computer Systems, Scientific Reports, IEEE Communications Letters, PeerJ, BMC Bioinformatics, PeerJ Computer Science, and others.
 1. Gold Award of the 8th "Internet Plus" Innovation and Entrepreneurship Competition for College Students in Liaoning Province, Drug target affinity prediction based on artificial intelligence, Education Department of Liaoning Province.
 1. China National Scholarship (2021, 2023), The Central Government of China.
