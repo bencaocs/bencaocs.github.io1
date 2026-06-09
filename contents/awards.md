@@ -10,7 +10,8 @@
 ### Funding
 ------
 1. JSPS Postdoc Fellowship, JSPS, Japan. $55k.
-1. Opening Fundation of Key Laboratory, Ministry of Education, China. ¥20K.
+1. Grant-in-Aid for JSPS Fellows, JSPS, Japan. ¥ 2200K JPY .
+1. Opening Fundation of Key Laboratory, Ministry of Education, China. ¥20K CNY.
 
 ------
 ### ASSIST SUPERVISORS/STUDENTS MENTORED
